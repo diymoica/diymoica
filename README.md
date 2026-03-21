@@ -16,7 +16,7 @@ We build things that work — and share everything so you can build them too.
 
 | Project | Description | Status |
 |---|---|---|
-| 🧪 **[DmD — DIY my Dose](https://github.com/diymoica/DmDose)** | Universal smart dosing controller — 4 peristaltic pumps via ESP32 + HA | 🔧 v0.9.9 — In production |
+| 🧪 **[DmD — DIY my Dose](https://github.com/diymoica/DmDose)** | Universal smart dosing controller — 4 peristaltic pumps via ESP32 + HA | 🔧 v1.0.7 — In production |
 | 💡 **DmL** | Smart LED controller for planted tanks, reef aquariums & grow lights | 📋 Planned |
 | 🌡️ **DmC Monitor** | Multi-probe monitoring — temperature, pH, salinity, dissolved O2 | 📋 Planned |
 | ⚗️ **DmP** | Automated pH regulation with dosing feedback loop | 📋 Planned |
@@ -51,7 +51,7 @@ On construit des trucs qui marchent — et on partage tout pour que vous puissie
 
 | Projet | Description | Statut |
 |---|---|---|
-| 🧪 **[DmD — DIY my Dose](https://github.com/diymoica/DmDose)** | Contrôleur de dosage universel — 4 pompes péristaltiques via ESP32 + HA | 🔧 v0.9.9 — In production |
+| 🧪 **[DmD — DIY my Dose](https://github.com/diymoica/DmDose)** | Contrôleur de dosage universel — 4 pompes péristaltiques via ESP32 + HA | 🔧 v1.0.7 — In production |
 | 💡 **DmL** | Contrôleur LED intelligent pour bacs plantés, récifaux et culture indoor | 📋 Prévu |
 | 🌡️ **DmC Monitor** | Supervision multi-sondes — température, pH, salinité, O2 dissous | 📋 Prévu |
 | ⚗️ **DmP** | Régulation automatique du pH avec boucle de dosage | 📋 Prévu |
